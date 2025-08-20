@@ -1,0 +1,11 @@
+pip install streamlit
+pip install pandas
+pip install requests
+pip install PyPDF2
+pip install reportlab
+pip install groq
+pip install python-docx
+pip install deep-translator 
+pip install python-dotenv 
+pip install fpdf 
+python -m streamlit run jubliess/main.py
